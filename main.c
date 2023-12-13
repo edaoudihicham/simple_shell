@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point for the shell program
+ * main - The Entry point for the shell program
  * @argc: The number of arguments passed to the program
  * @argv: An array[string] of the arguments passed to the program
  * Return: The status code of the last command executed
